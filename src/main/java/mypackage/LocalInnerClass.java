@@ -8,6 +8,7 @@ interface Counter {
 // comment 2 added
 // comment 3 added
 // comment 4 added
+// comment 5 added
 public class LocalInnerClass {
 
 	//private static Test monitor = new Test();
